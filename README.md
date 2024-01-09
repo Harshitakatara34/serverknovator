@@ -1,5 +1,5 @@
 # serverknovator
-Deployed Lnk => https://659d294359b43b9d1293a502--profound-custard-92bd3e.netlify.app/
+Deployed Link => https://659d2ce89c6fd29e30b8d6cb--fantastic-pothos-761143.netlify.app/
 
 For Start Backend==>
 ==> Nodemon index.js
