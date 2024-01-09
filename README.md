@@ -5,5 +5,7 @@ For Start Backend==>
 ==> Nodemon index.js
 
 For Frontent 
+Step1:
 ==> npm i 
+Step2:
 ==> Npm run start 
